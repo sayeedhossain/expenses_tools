@@ -1,5 +1,5 @@
 # expenses_tools <br>
-Objective: Projext expenses_tools allows a user to login and track her expenses in no particular order for record keeping.<br>
+Objective: Project expenses_tools allows a user to login and track her expenses in no particular order for record keeping.<br>
 
 Features included:<br>
 
