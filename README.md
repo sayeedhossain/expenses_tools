@@ -30,6 +30,8 @@ Start a virtual environment (venv) after cloning the repo<br>
 Do a 'pip install' to install the dependencies of the requirements.txt<br>
 Once that is done, run project using 'python manage.py runserver'<br>
 
+For any problem , just feel free to contact with me through my mail . 
+
 <h1>Author : </h1><br>
 <h3>Name : Sayeed Hossain</h3><br>
 <h3>Mail : sayeedhatim@gmail.com</h3>
